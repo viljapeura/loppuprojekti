@@ -64,9 +64,11 @@ I read this interesting quote the other day:
 
 ### Lists  
 
+
 * Flour
 * Cheese
 * Tomatoes  
+
 
 1. Cut the cheese
 2. Slice the tomatoes
@@ -88,12 +90,15 @@ I read this interesting quote the other day:
   * Is very famous  
 
 
-1. Cut the cheese
-  Make sure that the cheese is cut into little triangles.
-  
-2. Slice the tomatoes
-  Be careful when holding the knife.
-  For more help on tomato slicing, see Thomas Jefferson's seminal essay _Tom Ate Those_.  
+1. Cut the cheese  
+ 
+ Make sure that the cheese is cut into little triangles.
+
+2. Slice the tomatoes  
+
+ Be careful when holding the knife.  
+ 
+ For more help on tomato slicing, see Thomas Jefferson's seminal essay _Tom Ate Those_.
 
 
 ### Paragraphs  
