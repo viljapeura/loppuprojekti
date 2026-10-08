@@ -1,9 +1,5 @@
 # Loppuprojekti
-Tämä on harjoitus
 
-Tämä on **lihavoitu** ja *kursivoitu*.
+Tämä on minun loppuprojekti opintojaksolle *Ohjelmistokehittämisen työkalut*.
 
-´´´
-git clone
-´´´
-[Linkki-teksti] (https://net.centria.fi/)
+Täältä löytyvät projektin tehtävät, markdown harjoitukset löytyvät omasta tiedostostaan.
