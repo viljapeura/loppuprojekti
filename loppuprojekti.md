@@ -1,7 +1,3 @@
-layout: page
-title: "Markdown harjoitus"
-permalink: /harjoitus
-
 ## Vilja Peura web-tehtävä
 
 ### Italics and Bold  
