@@ -3,6 +3,7 @@
 <br>
 
 Nämä sivut toimivat loppuprojektina opintojaksolle ohjelmistokehittämisen työkalut. 
+
 Halusin kokeilla myös teeman lisäämistä sivulle, sekä hieman teeman muokkaamista.
 
 <br>
