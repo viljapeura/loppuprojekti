@@ -1,5 +1,7 @@
 # Loppuprojekti
 
+Tervetuloa!
+
 Tämä on minun loppuprojekti opintojaksolle *Ohjelmistokehittämisen työkalut*.
 
-Täältä löytyvät projektin tehtävät, markdown harjoitukset löytyvät omasta tiedostostaan.
+[Markdown-harjoitus] (https://viljapeura.github.io/loppuprojekti/loppuprojekti.html), tämän linkin takana löytyy tekemäni markdown harjoitus.
