@@ -1,5 +1,7 @@
 # Vilja Peura web-tehtävä
 
+<br>
+
 ## Sisällysluettelo
 - [Italics-and-bold](#italics-and-bold)
 - [Headers](#headers)
@@ -9,6 +11,7 @@
 - [Lists](#lists)
 - [Paragraphs](#paragraphs)
 
+<br><br>
 
 ## Italics and Bold  
 
@@ -19,6 +22,7 @@ I **will** complete these lessons!
 "_Of course_," she whispered. Then, she shouted: "All I need is **a little moxie**!"
 If you're thinking to yourself, **_This is unbelievable_**, you'd probably be right.  
 
+<br><br>
 
 ## Headers  
 
@@ -33,6 +37,7 @@ If you're thinking to yourself, **_This is unbelievable_**, you'd probably be ri
 
 Here's some words about the book _One Hundred Years..._.  
 
+<br><br>
 
 ## Links  
 [Search for it.](www.google.com)
@@ -48,6 +53,7 @@ Well, do I have [the website for you][another fun place]!
 [a fun place]: www.zombo.com
 [another fun place]: www.stumbleupon.com  
 
+<br>
 
 ## Images  
 
@@ -60,6 +66,7 @@ Well, do I have [the website for you][another fun place]!
 [Black]: https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg
 [Orange]: https://upload.wikimedia.org/wikipedia/commons/4/4f/Kitty_emoji.png  
 
+<br><br>
 
 ## Blockquotes  
 
@@ -76,6 +83,7 @@ I read this interesting quote the other day:
 
 >He left her quickly, fearing that her intimacy might turn to jibing and wishing to be out of the way before she offered her ware to another, a tourist from England or a student of Trinity. Grafton Street, along which he walked, prolonged that moment of discouraged poverty. In the roadway at the head of the street a slab was set to the memory of Wolfe Tone and he remembered having been present with his father at its laying. He remembered with bitterness that scene of tawdry tribute. There were four French delegates in a brake and one, a plump smiling young man, held, wedged on a stick, a card on which were printed the words: _VIVE L'IRLANDE_!  
 
+<br><br>
 
 ## Lists  
 
@@ -84,16 +92,19 @@ I read this interesting quote the other day:
 * Cheese
 * Tomatoes  
 
+<br>
 
 1. Cut the cheese
 2. Slice the tomatoes
 3. Rub the tomatoes in flour  
 
+<br>
 
 * Azalea (_Ericaceae Rhododendron_)
 * Chrysanthemum (_Anthemideae Chrysanthemum_)
 * Dahlia (_Coreopsideae Dahlia_)  
 
+<br>
 
 * Calculus
   * A professor
@@ -104,6 +115,7 @@ I read this interesting quote the other day:
   * Has white hair
   * Is very famous  
 
+<br>
 
 1. Cut the cheese
  
@@ -114,7 +126,8 @@ I read this interesting quote the other day:
    Be careful when holding the knife.
 
    For more help on tomato slicing, see Thomas Jefferson's seminal essay _Tom Ate Those_.
-   
+
+<br><br>
 
 ## Paragraphs  
 
@@ -122,6 +135,8 @@ We pictured the meek mild creatures where
 They dwelt in their strawy pen,  
 Nor did it occur to one of us there  
 To doubt they were kneeling then.  
+
+<br>
 
 1. Crack three eggs over a bowl.  
  Now, you're going to want to crack the eggs in such a way that you don't make a mess.  
